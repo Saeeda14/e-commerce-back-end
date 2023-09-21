@@ -1,7 +1,6 @@
 {
     "development": {
-    "username": "your_mysql_username",
-    "password": "your_mysql_password",
+    "username": "root",
     "database": "your_database_name",
     "host": "localhost",
     "dialect": "mysql"
